@@ -1,0 +1,9 @@
+C:\Users\nikse\Desktop\CatCalc_Ladonin-master\CAT_CALC\bin\Debug\CAT_CALC.exe.config
+C:\Users\nikse\Desktop\CatCalc_Ladonin-master\CAT_CALC\bin\Debug\CAT_CALC.exe
+C:\Users\nikse\Desktop\CatCalc_Ladonin-master\CAT_CALC\bin\Debug\CAT_CALC.pdb
+C:\Users\nikse\Desktop\CatCalc_Ladonin-master\CAT_CALC\obj\Debug\CAT_CALC.csprojAssemblyReference.cache
+C:\Users\nikse\Desktop\CatCalc_Ladonin-master\CAT_CALC\obj\Debug\CAT_CALC.Form1.resources
+C:\Users\nikse\Desktop\CatCalc_Ladonin-master\CAT_CALC\obj\Debug\CAT_CALC.Properties.Resources.resources
+C:\Users\nikse\Desktop\CatCalc_Ladonin-master\CAT_CALC\obj\Debug\CAT_CALC.csproj.GenerateResource.cache
+C:\Users\nikse\Desktop\CatCalc_Ladonin-master\CAT_CALC\obj\Debug\CAT_CALC.exe
+C:\Users\nikse\Desktop\CatCalc_Ladonin-master\CAT_CALC\obj\Debug\CAT_CALC.pdb

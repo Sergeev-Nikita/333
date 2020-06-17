@@ -1,0 +1,9 @@
+C:\Users\nikse\Desktop\CatCalc_Sergeev Nikita\Cat_Calculator\bin\Debug\Cat_Calculator.exe.config
+C:\Users\nikse\Desktop\CatCalc_Sergeev Nikita\Cat_Calculator\bin\Debug\Cat_Calculator.exe
+C:\Users\nikse\Desktop\CatCalc_Sergeev Nikita\Cat_Calculator\bin\Debug\Cat_Calculator.pdb
+C:\Users\nikse\Desktop\CatCalc_Sergeev Nikita\Cat_Calculator\obj\Debug\Cat_Calculator.csprojAssemblyReference.cache
+C:\Users\nikse\Desktop\CatCalc_Sergeev Nikita\Cat_Calculator\obj\Debug\Cat_Calculator.Form1.resources
+C:\Users\nikse\Desktop\CatCalc_Sergeev Nikita\Cat_Calculator\obj\Debug\Cat_Calculator.Properties.Resources.resources
+C:\Users\nikse\Desktop\CatCalc_Sergeev Nikita\Cat_Calculator\obj\Debug\Cat_Calculator.csproj.GenerateResource.cache
+C:\Users\nikse\Desktop\CatCalc_Sergeev Nikita\Cat_Calculator\obj\Debug\Cat_Calculator.exe
+C:\Users\nikse\Desktop\CatCalc_Sergeev Nikita\Cat_Calculator\obj\Debug\Cat_Calculator.pdb
